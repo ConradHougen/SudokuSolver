@@ -1,2 +1,2 @@
 # SudokuSolver
-Solve Sudoku using backtracking - tutorial
+Solve Sudoku using backtracking - CodeCamp tutorial
