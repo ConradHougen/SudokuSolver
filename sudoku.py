@@ -39,3 +39,4 @@ def solve_sudoku(puzzle):
     
     for guess in range(1, 10):
         if is_valid(puzzle, guess, row, col):
+            pass
