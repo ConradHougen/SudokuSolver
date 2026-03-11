@@ -1,0 +1,2 @@
+# Normalize text files to LF so the same checkout behaves consistently in Windows Git and WSL/Linux Git.
+* text=auto eol=lf
